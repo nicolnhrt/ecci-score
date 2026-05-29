@@ -1,0 +1,14 @@
+{
+  "name": "ecci-score",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "snapshot:update": "node scripts/update-ecci-snapshot.mjs",
+    "snapshot:history": "node scripts/update-ecci-snapshot.mjs --history-base",
+    "diagnose:crises": "node scripts/diagnose-crises.mjs"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
