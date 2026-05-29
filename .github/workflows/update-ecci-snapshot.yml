@@ -35,4 +35,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update daily ECCI snapshot"
-          file_pattern: frontend/data/ecci-recent.json frontend/data/ecci-snapshot.json
+          file_pattern: data/ecci-recent.json data/ecci-snapshot.json
