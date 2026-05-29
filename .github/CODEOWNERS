@@ -2,4 +2,5 @@ name=.github/CODEOWNERS
 * @nicolnhrt
 
 # Les workflows GitHub Actions peuvent commiter directement
-data/ecci-history-base.json @github-actions[bot]
+data/ecci-history-base.json @github-actions
+data/ecci-snapshot.json @github-actions
