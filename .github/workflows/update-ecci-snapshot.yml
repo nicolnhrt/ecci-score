@@ -1,0 +1,38 @@
+name: Update ECCI Snapshot
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-snapshot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate daily snapshot
+        env:
+          ECCI_PROXY_URL: ${{ secrets.ECCI_PROXY_URL }}
+          ECCI_PROXY_TOKEN: ${{ secrets.ECCI_PROXY_TOKEN }}
+        run: node scripts/update-ecci-snapshot.mjs
+
+      - name: Commit updated recent snapshot
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update daily ECCI snapshot"
+          file_pattern: frontend/data/ecci-recent.json frontend/data/ecci-snapshot.json
