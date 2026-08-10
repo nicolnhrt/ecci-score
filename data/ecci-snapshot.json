@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-08-09T01:13:26.594Z",
+  "updatedAt": "2026-08-10T01:15:21.694Z",
   "sourceLabel": "Daily real snapshot",
   "universe": {
     "id": "sp500",
@@ -169,39 +169,6 @@
   "history": [
     {
       "index": "ECCI-SP500",
-      "score": 73.4,
-      "date": "2023-08-09",
-      "components": {
-        "valuation": {
-          "score": 96,
-          "weight": 0.3,
-          "contribution": 28.8,
-          "spyClose": 429.4349060058594
-        },
-        "trend": {
-          "score": 80.9,
-          "weight": 0.25,
-          "contribution": 20.21
-        },
-        "sentiment": {
-          "score": 67.3,
-          "weight": 0.15,
-          "contribution": 10.1
-        },
-        "macro": {
-          "score": 68.6,
-          "weight": 0.2,
-          "contribution": 13.72
-        },
-        "stress": {
-          "score": 5.3,
-          "weight": 0.1,
-          "contribution": 0.53
-        }
-      }
-    },
-    {
-      "index": "ECCI-SP500",
       "score": 73.8,
       "date": "2023-08-10",
       "components": {
@@ -242,7 +209,7 @@
           "score": 96,
           "weight": 0.3,
           "contribution": 28.8,
-          "spyClose": 429.3385009765625
+          "spyClose": 429.33856201171875
         },
         "trend": {
           "score": 79.6,
@@ -275,7 +242,7 @@
           "score": 96,
           "weight": 0.3,
           "contribution": 28.8,
-          "spyClose": 431.70855712890625
+          "spyClose": 431.7085266113281
         },
         "trend": {
           "score": 80.7,
@@ -308,7 +275,7 @@
           "score": 96,
           "weight": 0.3,
           "contribution": 28.8,
-          "spyClose": 426.6795959472656
+          "spyClose": 426.67962646484375
         },
         "trend": {
           "score": 76.8,
@@ -341,7 +308,7 @@
           "score": 96,
           "weight": 0.3,
           "contribution": 28.8,
-          "spyClose": 423.54852294921875
+          "spyClose": 423.5486145019531
         },
         "trend": {
           "score": 74.6,
@@ -374,7 +341,7 @@
           "score": 96,
           "weight": 0.3,
           "contribution": 28.8,
-          "spyClose": 420.3211975097656
+          "spyClose": 420.3211669921875
         },
         "trend": {
           "score": 72.4,
@@ -407,7 +374,7 @@
           "score": 96,
           "weight": 0.3,
           "contribution": 28.8,
-          "spyClose": 420.5234680175781
+          "spyClose": 420.5235290527344
         },
         "trend": {
           "score": 73.2,
@@ -440,7 +407,7 @@
           "score": 96,
           "weight": 0.3,
           "contribution": 28.8,
-          "spyClose": 423.259521484375
+          "spyClose": 423.2594909667969
         },
         "trend": {
           "score": 74.5,
@@ -473,7 +440,7 @@
           "score": 96,
           "weight": 0.3,
           "contribution": 28.8,
-          "spyClose": 422.1130676269531
+          "spyClose": 422.1131286621094
         },
         "trend": {
           "score": 74.8,
@@ -506,7 +473,7 @@
           "score": 96,
           "weight": 0.3,
           "contribution": 28.8,
-          "spyClose": 426.8144226074219
+          "spyClose": 426.8144836425781
         },
         "trend": {
           "score": 78.7,
@@ -572,7 +539,7 @@
           "score": 96,
           "weight": 0.3,
           "contribution": 28.8,
-          "spyClose": 423.866455078125
+          "spyClose": 423.8664855957031
         },
         "trend": {
           "score": 77,
@@ -605,7 +572,7 @@
           "score": 96,
           "weight": 0.3,
           "contribution": 28.8,
-          "spyClose": 426.55438232421875
+          "spyClose": 426.5543518066406
         },
         "trend": {
           "score": 77.4,
@@ -638,7 +605,7 @@
           "score": 96,
           "weight": 0.3,
           "contribution": 28.8,
-          "spyClose": 432.7201843261719
+          "spyClose": 432.7201232910156
         },
         "trend": {
           "score": 82.6,
@@ -770,7 +737,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 432.7972106933594
+          "spyClose": 432.79718017578125
         },
         "trend": {
           "score": 83.7,
@@ -836,7 +803,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 428.56787109375
+          "spyClose": 428.5678405761719
         },
         "trend": {
           "score": 82.2,
@@ -935,7 +902,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 429.6661682128906
+          "spyClose": 429.6661376953125
         },
         "trend": {
           "score": 80.4,
@@ -968,7 +935,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 430.1671142578125
+          "spyClose": 430.16717529296875
         },
         "trend": {
           "score": 79.9,
@@ -1001,7 +968,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 433.8761901855469
+          "spyClose": 433.8761291503906
         },
         "trend": {
           "score": 84.3,
@@ -1067,7 +1034,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 428.9001159667969
+          "spyClose": 428.9000244140625
         },
         "trend": {
           "score": 82.1,
@@ -1100,7 +1067,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 428.01055908203125
+          "spyClose": 428.0105895996094
         },
         "trend": {
           "score": 82,
@@ -1133,7 +1100,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 424.0758056640625
+          "spyClose": 424.07574462890625
         },
         "trend": {
           "score": 79.5,
@@ -1166,7 +1133,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 417.0665588378906
+          "spyClose": 417.06640625
         },
         "trend": {
           "score": 76.3,
@@ -1199,7 +1166,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 416.12872314453125
+          "spyClose": 416.1287536621094
         },
         "trend": {
           "score": 76.7,
@@ -1232,7 +1199,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 417.8786315917969
+          "spyClose": 417.8785705566406
         },
         "trend": {
           "score": 78.1,
@@ -1265,7 +1232,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 411.73944091796875
+          "spyClose": 411.7394104003906
         },
         "trend": {
           "score": 75.4,
@@ -1298,7 +1265,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 411.9037780761719
+          "spyClose": 411.90380859375
         },
         "trend": {
           "score": 76,
@@ -1331,7 +1298,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 414.291748046875
+          "spyClose": 414.2917785644531
         },
         "trend": {
           "score": 77.5,
@@ -1364,7 +1331,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 413.2863464355469
+          "spyClose": 413.28631591796875
         },
         "trend": {
           "score": 75.8,
@@ -1397,7 +1364,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 413.12200927734375
+          "spyClose": 413.1219787597656
         },
         "trend": {
           "score": 76.8,
@@ -1496,7 +1463,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 410.4052734375
+          "spyClose": 410.4052429199219
         },
         "trend": {
           "score": 72.7,
@@ -1529,7 +1496,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 415.2779541015625
+          "spyClose": 415.27789306640625
         },
         "trend": {
           "score": 75.7,
@@ -1562,7 +1529,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 417.93658447265625
+          "spyClose": 417.9366149902344
         },
         "trend": {
           "score": 77.7,
@@ -1595,7 +1562,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 420.1119384765625
+          "spyClose": 420.1119079589844
         },
         "trend": {
           "score": 80.4,
@@ -1628,7 +1595,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 421.8328552246094
+          "spyClose": 421.8327941894531
         },
         "trend": {
           "score": 81.6,
@@ -1661,7 +1628,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 419.2611389160156
+          "spyClose": 419.2611083984375
         },
         "trend": {
           "score": 80.5,
@@ -1727,7 +1694,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 421.5621032714844
+          "spyClose": 421.56207275390625
         },
         "trend": {
           "score": 80.4,
@@ -1760,7 +1727,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 421.542724609375
+          "spyClose": 421.5427551269531
         },
         "trend": {
           "score": 81.5,
@@ -1826,7 +1793,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 412.27117919921875
+          "spyClose": 412.2711181640625
         },
         "trend": {
           "score": 74.1,
@@ -1859,7 +1826,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 407.2052001953125
+          "spyClose": 407.2051696777344
         },
         "trend": {
           "score": 70.8,
@@ -1892,7 +1859,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 406.4993896484375
+          "spyClose": 406.4994201660156
         },
         "trend": {
           "score": 70.5,
@@ -2024,7 +1991,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 397.04412841796875
+          "spyClose": 397.0440979003906
         },
         "trend": {
           "score": 60.6,
@@ -2090,7 +2057,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 404.314453125
+          "spyClose": 404.3144836425781
         },
         "trend": {
           "score": 64.3,
@@ -2123,7 +2090,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 408.62640380859375
+          "spyClose": 408.6263427734375
         },
         "trend": {
           "score": 68.8,
@@ -2156,7 +2123,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 416.4574279785156
+          "spyClose": 416.4573669433594
         },
         "trend": {
           "score": 74.2,
@@ -2189,7 +2156,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 420.2569274902344
+          "spyClose": 420.2569580078125
         },
         "trend": {
           "score": 77.7,
@@ -2222,7 +2189,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 421.2236633300781
+          "spyClose": 421.22369384765625
         },
         "trend": {
           "score": 78.8,
@@ -2255,7 +2222,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 422.4224548339844
+          "spyClose": 422.42254638671875
         },
         "trend": {
           "score": 78.6,
@@ -2288,7 +2255,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 422.7319641113281
+          "spyClose": 422.7319030761719
         },
         "trend": {
           "score": 78.2,
@@ -2321,7 +2288,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 419.4351501464844
+          "spyClose": 419.43511962890625
         },
         "trend": {
           "score": 76,
@@ -2354,7 +2321,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 425.9803771972656
+          "spyClose": 425.9803161621094
         },
         "trend": {
           "score": 80.7,
@@ -2387,7 +2354,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 425.5743408203125
+          "spyClose": 425.5743103027344
         },
         "trend": {
           "score": 77.5,
@@ -2420,7 +2387,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 433.8307189941406
+          "spyClose": 433.83074951171875
         },
         "trend": {
           "score": 81.2,
@@ -2453,7 +2420,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 434.7491149902344
+          "spyClose": 434.7492370605469
         },
         "trend": {
           "score": 82.1,
@@ -2486,7 +2453,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 435.28094482421875
+          "spyClose": 435.2809753417969
         },
         "trend": {
           "score": 81.9,
@@ -2519,7 +2486,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 435.8223571777344
+          "spyClose": 435.8223876953125
         },
         "trend": {
           "score": 82.5,
@@ -2585,7 +2552,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 438.219970703125
+          "spyClose": 438.2200012207031
         },
         "trend": {
           "score": 83.5,
@@ -2618,7 +2585,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 439.9119873046875
+          "spyClose": 439.911865234375
         },
         "trend": {
           "score": 84.5,
@@ -2684,7 +2651,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 439.3898620605469
+          "spyClose": 439.38983154296875
         },
         "trend": {
           "score": 83.1,
@@ -2750,7 +2717,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 439.51544189453125
+          "spyClose": 439.5155029296875
         },
         "trend": {
           "score": 83.9,
@@ -2816,7 +2783,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 443.8564147949219
+          "spyClose": 443.8564453125
         },
         "trend": {
           "score": 83.9,
@@ -2882,7 +2849,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 441.4394226074219
+          "spyClose": 441.4394836425781
         },
         "trend": {
           "score": 82.7,
@@ -2981,7 +2948,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 444.919921875
+          "spyClose": 444.9199523925781
         },
         "trend": {
           "score": 85.9,
@@ -3014,7 +2981,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 446.6505126953125
+          "spyClose": 446.65045166015625
         },
         "trend": {
           "score": 86,
@@ -3047,7 +3014,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 448.6903991699219
+          "spyClose": 448.6904602050781
         },
         "trend": {
           "score": 86.9,
@@ -3080,7 +3047,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 454.87786865234375
+          "spyClose": 454.8779296875
         },
         "trend": {
           "score": 88,
@@ -3113,7 +3080,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 456.3377685546875
+          "spyClose": 456.3377380371094
         },
         "trend": {
           "score": 88,
@@ -3245,7 +3212,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 454.5477600097656
+          "spyClose": 454.54779052734375
         },
         "trend": {
           "score": 88.9,
@@ -3278,7 +3245,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 458.8577880859375
+          "spyClose": 458.85772705078125
         },
         "trend": {
           "score": 90.7,
@@ -3311,7 +3278,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 459.7799072265625
+          "spyClose": 459.7799377441406
         },
         "trend": {
           "score": 90.2,
@@ -3344,7 +3311,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 461.72137451171875
+          "spyClose": 461.7214050292969
         },
         "trend": {
           "score": 91.6,
@@ -3377,7 +3344,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 462.5561828613281
+          "spyClose": 462.55621337890625
         },
         "trend": {
           "score": 91.5,
@@ -3410,7 +3377,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 462.73089599609375
+          "spyClose": 462.7309265136719
         },
         "trend": {
           "score": 91.6,
@@ -3443,7 +3410,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 461.391357421875
+          "spyClose": 461.39129638671875
         },
         "trend": {
           "score": 91.6,
@@ -3542,7 +3509,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 453.596435546875
+          "spyClose": 453.59649658203125
         },
         "trend": {
           "score": 87.2,
@@ -3641,7 +3608,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 460.0032043457031
+          "spyClose": 460.003173828125
         },
         "trend": {
           "score": 89,
@@ -3674,7 +3641,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 462.60467529296875
+          "spyClose": 462.6047058105469
         },
         "trend": {
           "score": 90.1,
@@ -3707,7 +3674,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 462.4008483886719
+          "spyClose": 462.40087890625
         },
         "trend": {
           "score": 89.5,
@@ -3773,7 +3740,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 461.0224304199219
+          "spyClose": 461.0224609375
         },
         "trend": {
           "score": 87.9,
@@ -3806,7 +3773,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 458.4598083496094
+          "spyClose": 458.45977783203125
         },
         "trend": {
           "score": 86.5,
@@ -3839,7 +3806,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 462.5367431640625
+          "spyClose": 462.5367736816406
         },
         "trend": {
           "score": 88.3,
@@ -3872,7 +3839,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 468.30279541015625
+          "spyClose": 468.3028564453125
         },
         "trend": {
           "score": 90.8,
@@ -3905,7 +3872,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 469.29296875
+          "spyClose": 469.2929992675781
         },
         "trend": {
           "score": 91.4,
@@ -3938,7 +3905,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 470.66168212890625
+          "spyClose": 470.66162109375
         },
         "trend": {
           "score": 90.8,
@@ -3971,7 +3938,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 471.1761779785156
+          "spyClose": 471.17620849609375
         },
         "trend": {
           "score": 90.2,
@@ -4004,7 +3971,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 473.73883056640625
+          "spyClose": 473.7388610839844
         },
         "trend": {
           "score": 91,
@@ -4070,7 +4037,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 476.8839416503906
+          "spyClose": 476.8839111328125
         },
         "trend": {
           "score": 91.1,
@@ -4103,7 +4070,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 476.5151062011719
+          "spyClose": 476.51513671875
         },
         "trend": {
           "score": 90.8,
@@ -4136,7 +4103,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 468.73968505859375
+          "spyClose": 468.7396545410156
         },
         "trend": {
           "score": 87.9,
@@ -4202,7 +4169,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 479.873779296875
+          "spyClose": 479.8737487792969
         },
         "trend": {
           "score": 90.9,
@@ -4268,7 +4235,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 479.5146179199219
+          "spyClose": 479.5145568847656
         },
         "trend": {
           "score": 90.4,
@@ -4301,7 +4268,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 483.513916015625
+          "spyClose": 483.5139465332031
         },
         "trend": {
           "score": 91.8,
@@ -4334,7 +4301,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 483.72747802734375
+          "spyClose": 483.7275390625
         },
         "trend": {
           "score": 91.1,
@@ -4367,7 +4334,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 486.5232238769531
+          "spyClose": 486.52313232421875
         },
         "trend": {
           "score": 92.3,
@@ -4433,7 +4400,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 479.61163330078125
+          "spyClose": 479.6116638183594
         },
         "trend": {
           "score": 89.6,
@@ -4499,7 +4466,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 487.3094482421875
+          "spyClose": 487.3095397949219
         },
         "trend": {
           "score": 92,
@@ -4532,7 +4499,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 484.8826599121094
+          "spyClose": 484.8826904296875
         },
         "trend": {
           "score": 90.7,
@@ -4565,7 +4532,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 482.2132263183594
+          "spyClose": 482.213134765625
         },
         "trend": {
           "score": 90.2,
@@ -4598,7 +4565,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 482.6500244140625
+          "spyClose": 482.6499938964844
         },
         "trend": {
           "score": 90.4,
@@ -4631,7 +4598,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 492.638671875
+          "spyClose": 492.63873291015625
         },
         "trend": {
           "score": 94.7,
@@ -4664,7 +4631,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 492.9784240722656
+          "spyClose": 492.9783935546875
         },
         "trend": {
           "score": 94.8,
@@ -4697,7 +4664,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 491.1729431152344
+          "spyClose": 491.1728820800781
         },
         "trend": {
           "score": 93.7,
@@ -4796,7 +4763,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 493.20166015625
+          "spyClose": 493.2017517089844
         },
         "trend": {
           "score": 94.8,
@@ -4862,7 +4829,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 497.2981262207031
+          "spyClose": 497.298095703125
         },
         "trend": {
           "score": 95.4,
@@ -4895,7 +4862,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 492.32806396484375
+          "spyClose": 492.3280334472656
         },
         "trend": {
           "score": 92.5,
@@ -4928,7 +4895,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 494.82281494140625
+          "spyClose": 494.8228454589844
         },
         "trend": {
           "score": 93.4,
@@ -4961,7 +4928,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 499.7346496582031
+          "spyClose": 499.734619140625
         },
         "trend": {
           "score": 95.8,
@@ -4994,7 +4961,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 496.73516845703125
+          "spyClose": 496.7351379394531
         },
         "trend": {
           "score": 94.4,
@@ -5027,7 +4994,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 496.3079833984375
+          "spyClose": 496.3079528808594
         },
         "trend": {
           "score": 95.1,
@@ -5060,7 +5027,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 501.6469421386719
+          "spyClose": 501.6470031738281
         },
         "trend": {
           "score": 97.3,
@@ -5126,7 +5093,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 499.8705749511719
+          "spyClose": 499.8704528808594
         },
         "trend": {
           "score": 96,
@@ -5159,7 +5126,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 496.4380798339844
+          "spyClose": 496.4381103515625
         },
         "trend": {
           "score": 94.8,
@@ -5258,7 +5225,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 506.8083190917969
+          "spyClose": 506.80841064453125
         },
         "trend": {
           "score": 97.2,
@@ -5291,7 +5258,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 508.4832458496094
+          "spyClose": 508.4831848144531
         },
         "trend": {
           "score": 96.9,
@@ -5324,7 +5291,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 507.5192565917969
+          "spyClose": 507.5193176269531
         },
         "trend": {
           "score": 97.3,
@@ -5390,7 +5357,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 505.1822204589844
+          "spyClose": 505.1822509765625
         },
         "trend": {
           "score": 95.8,
@@ -5423,7 +5390,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 509.4277648925781
+          "spyClose": 509.4277038574219
         },
         "trend": {
           "score": 97.1,
@@ -5456,7 +5423,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 509.33026123046875
+          "spyClose": 509.33038330078125
         },
         "trend": {
           "score": 97.1,
@@ -5489,7 +5456,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 508.44427490234375
+          "spyClose": 508.4442138671875
         },
         "trend": {
           "score": 96,
@@ -5522,7 +5489,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 505.2115783691406
+          "spyClose": 505.2115478515625
         },
         "trend": {
           "score": 94.3,
@@ -5555,7 +5522,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 505.76641845703125
+          "spyClose": 505.7664489746094
         },
         "trend": {
           "score": 93.8,
@@ -5588,7 +5555,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 499.5930480957031
+          "spyClose": 499.59307861328125
         },
         "trend": {
           "score": 91,
@@ -5621,7 +5588,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 504.81219482421875
+          "spyClose": 504.8122253417969
         },
         "trend": {
           "score": 93.3,
@@ -5654,7 +5621,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 505.0945739746094
+          "spyClose": 505.09454345703125
         },
         "trend": {
           "score": 93.5,
@@ -5687,7 +5654,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 505.6788635253906
+          "spyClose": 505.6788024902344
         },
         "trend": {
           "score": 93.4,
@@ -5753,7 +5720,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 504.3935546875
+          "spyClose": 504.39349365234375
         },
         "trend": {
           "score": 92.7,
@@ -5786,7 +5753,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 497.4313659667969
+          "spyClose": 497.43133544921875
         },
         "trend": {
           "score": 90,
@@ -5885,7 +5852,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 487.40185546875
+          "spyClose": 487.4018859863281
         },
         "trend": {
           "score": 84.8,
@@ -5951,7 +5918,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 482.1534729003906
+          "spyClose": 482.15350341796875
         },
         "trend": {
           "score": 82.3,
@@ -5984,7 +5951,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 486.59368896484375
+          "spyClose": 486.59375
         },
         "trend": {
           "score": 84.5,
@@ -6050,7 +6017,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 492.1341857910156
+          "spyClose": 492.1342468261719
         },
         "trend": {
           "score": 86.7,
@@ -6116,7 +6083,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 494.9093933105469
+          "spyClose": 494.90936279296875
         },
         "trend": {
           "score": 88.8,
@@ -6149,7 +6116,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 496.66204833984375
+          "spyClose": 496.6620788574219
         },
         "trend": {
           "score": 88.5,
@@ -6182,7 +6149,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 488.7943115234375
+          "spyClose": 488.7943420410156
         },
         "trend": {
           "score": 84.6,
@@ -6281,7 +6248,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 497.8598327636719
+          "spyClose": 497.8597412109375
         },
         "trend": {
           "score": 89.3,
@@ -6380,7 +6347,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 503.6047668457031
+          "spyClose": 503.604736328125
         },
         "trend": {
           "score": 90.9,
@@ -6413,7 +6380,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 506.50653076171875
+          "spyClose": 506.5065002441406
         },
         "trend": {
           "score": 92.2,
@@ -6446,7 +6413,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 507.1589050292969
+          "spyClose": 507.1589660644531
         },
         "trend": {
           "score": 92.2,
@@ -6479,7 +6446,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 507.2270812988281
+          "spyClose": 507.22698974609375
         },
         "trend": {
           "score": 92.2,
@@ -6512,7 +6479,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 509.55426025390625
+          "spyClose": 509.5543518066406
         },
         "trend": {
           "score": 93.1,
@@ -6611,7 +6578,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 515.5428466796875
+          "spyClose": 515.542724609375
         },
         "trend": {
           "score": 94,
@@ -6644,7 +6611,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 516.1368408203125
+          "spyClose": 516.13671875
         },
         "trend": {
           "score": 93.6,
@@ -6677,7 +6644,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 517.4025268554688
+          "spyClose": 517.402587890625
         },
         "trend": {
           "score": 94,
@@ -6710,7 +6677,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 515.9129028320312
+          "spyClose": 515.9127807617188
         },
         "trend": {
           "score": 93.3,
@@ -6776,7 +6743,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 515.5330200195312
+          "spyClose": 515.5330810546875
         },
         "trend": {
           "score": 93.9,
@@ -6875,7 +6842,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 508.8824462890625
+          "spyClose": 508.88238525390625
         },
         "trend": {
           "score": 89.9,
@@ -6908,7 +6875,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 513.517333984375
+          "spyClose": 513.5173950195312
         },
         "trend": {
           "score": 92,
@@ -6941,7 +6908,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 513.9361572265625
+          "spyClose": 513.9360961914062
         },
         "trend": {
           "score": 91.6,
@@ -7007,7 +6974,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 520.6256103515625
+          "spyClose": 520.6256713867188
         },
         "trend": {
           "score": 93,
@@ -7073,7 +7040,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 519.9830322265625
+          "spyClose": 519.9829711914062
         },
         "trend": {
           "score": 92.6,
@@ -7106,7 +7073,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 521.589599609375
+          "spyClose": 521.5896606445312
         },
         "trend": {
           "score": 92.8,
@@ -7139,7 +7106,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 522.845703125
+          "spyClose": 522.8458251953125
         },
         "trend": {
           "score": 92.9,
@@ -7172,7 +7139,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 527.139892578125
+          "spyClose": 527.1398315429688
         },
         "trend": {
           "score": 93.4,
@@ -7205,7 +7172,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 528.2012939453125
+          "spyClose": 528.2012329101562
         },
         "trend": {
           "score": 93.3,
@@ -7271,7 +7238,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 532.7291259765625
+          "spyClose": 532.7291870117188
         },
         "trend": {
           "score": 93.6,
@@ -7304,7 +7271,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 534.0826416015625
+          "spyClose": 534.0825805664062
         },
         "trend": {
           "score": 94,
@@ -7337,7 +7304,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 532.6317749023438
+          "spyClose": 532.6317138671875
         },
         "trend": {
           "score": 93.6,
@@ -7403,7 +7370,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 530.1886596679688
+          "spyClose": 530.1885986328125
         },
         "trend": {
           "score": 92.6,
@@ -7469,7 +7436,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 532.89453125
+          "spyClose": 532.8946533203125
         },
         "trend": {
           "score": 94,
@@ -7535,7 +7502,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 531.6343994140625
+          "spyClose": 531.6343383789062
         },
         "trend": {
           "score": 92.8,
@@ -7601,7 +7568,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 536.3135986328125
+          "spyClose": 536.3136596679688
         },
         "trend": {
           "score": 93.3,
@@ -7733,7 +7700,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 542.9661254882812
+          "spyClose": 542.966064453125
         },
         "trend": {
           "score": 95.1,
@@ -7766,7 +7733,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 548.3389282226562
+          "spyClose": 548.3389892578125
         },
         "trend": {
           "score": 96.1,
@@ -7898,7 +7865,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 551.7969970703125
+          "spyClose": 551.797119140625
         },
         "trend": {
           "score": 95.4,
@@ -7931,7 +7898,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 544.0601806640625
+          "spyClose": 544.0603637695312
         },
         "trend": {
           "score": 92.3,
@@ -7964,7 +7931,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 539.8792114257812
+          "spyClose": 539.879150390625
         },
         "trend": {
           "score": 90.2,
@@ -7997,7 +7964,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 536.2940673828125
+          "spyClose": 536.2940063476562
         },
         "trend": {
           "score": 88.6,
@@ -8030,7 +7997,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 541.8231201171875
+          "spyClose": 541.8231811523438
         },
         "trend": {
           "score": 91,
@@ -8063,7 +8030,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 540.973388671875
+          "spyClose": 540.9733276367188
         },
         "trend": {
           "score": 90.5,
@@ -8096,7 +8063,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 528.7135620117188
+          "spyClose": 528.7135009765625
         },
         "trend": {
           "score": 85.5,
@@ -8129,7 +8096,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 525.958740234375
+          "spyClose": 525.9588012695312
         },
         "trend": {
           "score": 84.1,
@@ -8162,7 +8129,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 531.8492431640625
+          "spyClose": 531.8493041992188
         },
         "trend": {
           "score": 86.3,
@@ -8294,7 +8261,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 530.452392578125
+          "spyClose": 530.4523315429688
         },
         "trend": {
           "score": 85.3,
@@ -8360,7 +8327,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 505.4150695800781
+          "spyClose": 505.4151306152344
         },
         "trend": {
           "score": 75.3,
@@ -8459,7 +8426,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 518.378173828125
+          "spyClose": 518.3782348632812
         },
         "trend": {
           "score": 80.8,
@@ -8558,7 +8525,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 529.5047607421875
+          "spyClose": 529.5048828125
         },
         "trend": {
           "score": 85.4,
@@ -8591,7 +8558,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 531.1752319335938
+          "spyClose": 531.1751708984375
         },
         "trend": {
           "score": 85.7,
@@ -8624,7 +8591,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 540.27978515625
+          "spyClose": 540.2796630859375
         },
         "trend": {
           "score": 89.7,
@@ -8657,7 +8624,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 541.490966796875
+          "spyClose": 541.4910278320312
         },
         "trend": {
           "score": 90.4,
@@ -8690,7 +8657,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 546.66845703125
+          "spyClose": 546.6683959960938
         },
         "trend": {
           "score": 92.6,
@@ -8723,7 +8690,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 545.779541015625
+          "spyClose": 545.7796020507812
         },
         "trend": {
           "score": 92.1,
@@ -8756,7 +8723,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 547.6551513671875
+          "spyClose": 547.6550903320312
         },
         "trend": {
           "score": 92.4,
@@ -8789,7 +8756,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 543.35693359375
+          "spyClose": 543.3568725585938
         },
         "trend": {
           "score": 90.8,
@@ -8822,7 +8789,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 549.1302490234375
+          "spyClose": 549.130126953125
         },
         "trend": {
           "score": 92.3,
@@ -8855,7 +8822,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 547.8211669921875
+          "spyClose": 547.8212280273438
         },
         "trend": {
           "score": 92.4,
@@ -8888,7 +8855,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 548.5734252929688
+          "spyClose": 548.5733642578125
         },
         "trend": {
           "score": 92.2,
@@ -8954,7 +8921,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 545.4375
+          "spyClose": 545.4376220703125
         },
         "trend": {
           "score": 89.8,
@@ -8987,7 +8954,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 550.6444091796875
+          "spyClose": 550.6443481445312
         },
         "trend": {
           "score": 91.4,
@@ -9020,7 +8987,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 539.3126831054688
+          "spyClose": 539.3126220703125
         },
         "trend": {
           "score": 87.1,
@@ -9086,7 +9053,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 536.899658203125
+          "spyClose": 536.8998413085938
         },
         "trend": {
           "score": 86.1,
@@ -9119,7 +9086,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 527.8637084960938
+          "spyClose": 527.8636474609375
         },
         "trend": {
           "score": 82.7,
@@ -9152,7 +9119,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 533.7738037109375
+          "spyClose": 533.7737426757812
         },
         "trend": {
           "score": 85.2,
@@ -9251,7 +9218,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 546.1604614257812
+          "spyClose": 546.1605834960938
         },
         "trend": {
           "score": 89.6,
@@ -9317,7 +9284,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 549.8237915039062
+          "spyClose": 549.82373046875
         },
         "trend": {
           "score": 90.3,
@@ -9350,7 +9317,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 550.0484008789062
+          "spyClose": 550.0484619140625
         },
         "trend": {
           "score": 90.9,
@@ -9416,7 +9383,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 557.775634765625
+          "spyClose": 557.7755737304688
         },
         "trend": {
           "score": 92.9,
@@ -9449,7 +9416,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 556.811279296875
+          "spyClose": 556.8113403320312
         },
         "trend": {
           "score": 92.9,
@@ -9548,7 +9515,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 558.5652465820312
+          "spyClose": 558.5653076171875
         },
         "trend": {
           "score": 93.8,
@@ -9614,7 +9581,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 559.966552734375
+          "spyClose": 559.9664916992188
         },
         "trend": {
           "score": 94.3,
@@ -9746,7 +9713,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 556.3900146484375
+          "spyClose": 556.3899536132812
         },
         "trend": {
           "score": 92.8,
@@ -9779,7 +9746,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 561.4461669921875
+          "spyClose": 561.4461059570312
         },
         "trend": {
           "score": 94.1,
@@ -9812,7 +9779,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 556.3704223632812
+          "spyClose": 556.370361328125
         },
         "trend": {
           "score": 92.6,
@@ -9878,7 +9845,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 565.5224609375
+          "spyClose": 565.5223999023438
         },
         "trend": {
           "score": 94.6,
@@ -9911,7 +9878,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 564.5326538085938
+          "spyClose": 564.53271484375
         },
         "trend": {
           "score": 94,
@@ -10010,7 +9977,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 568.1092529296875
+          "spyClose": 568.1093139648438
         },
         "trend": {
           "score": 94.1,
@@ -10076,7 +10043,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 570.6275024414062
+          "spyClose": 570.6275634765625
         },
         "trend": {
           "score": 94.6,
@@ -10109,7 +10076,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 572.822509765625
+          "spyClose": 572.8223876953125
         },
         "trend": {
           "score": 95,
@@ -10208,7 +10175,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 566.3552856445312
+          "spyClose": 566.355224609375
         },
         "trend": {
           "score": 93,
@@ -10241,7 +10208,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 567.5802001953125
+          "spyClose": 567.580078125
         },
         "trend": {
           "score": 93.3,
@@ -10274,7 +10241,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 567.384033203125
+          "spyClose": 567.3841552734375
         },
         "trend": {
           "score": 93.1,
@@ -10307,7 +10274,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 569.1381225585938
+          "spyClose": 569.1380615234375
         },
         "trend": {
           "score": 93.5,
@@ -10340,7 +10307,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 570.0592041015625
+          "spyClose": 570.0591430664062
         },
         "trend": {
           "score": 93.7,
@@ -10373,7 +10340,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 568.3345947265625
+          "spyClose": 568.3345336914062
         },
         "trend": {
           "score": 93.1,
@@ -10406,7 +10373,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 557.1934814453125
+          "spyClose": 557.1935424804688
         },
         "trend": {
           "score": 89.9,
@@ -10505,7 +10472,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 565.0911865234375
+          "spyClose": 565.09130859375
         },
         "trend": {
           "score": 91.7,
@@ -10538,7 +10505,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 579.1426391601562
+          "spyClose": 579.142578125
         },
         "trend": {
           "score": 94.9,
@@ -10571,7 +10538,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 583.6206665039062
+          "spyClose": 583.62060546875
         },
         "trend": {
           "score": 95.4,
@@ -10604,7 +10571,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 586.1486206054688
+          "spyClose": 586.148681640625
         },
         "trend": {
           "score": 95.7,
@@ -10637,7 +10604,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 586.7072143554688
+          "spyClose": 586.7071533203125
         },
         "trend": {
           "score": 95.7,
@@ -10736,7 +10703,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 581.406005859375
+          "spyClose": 581.4061279296875
         },
         "trend": {
           "score": 93.7,
@@ -10802,7 +10769,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 576.310791015625
+          "spyClose": 576.3108520507812
         },
         "trend": {
           "score": 91.5,
@@ -10868,7 +10835,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 578.6134033203125
+          "spyClose": 578.613525390625
         },
         "trend": {
           "score": 91.7,
@@ -10934,7 +10901,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 583.5225830078125
+          "spyClose": 583.5226440429688
         },
         "trend": {
           "score": 93.2,
@@ -10967,7 +10934,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 585.5020141601562
+          "spyClose": 585.501953125
         },
         "trend": {
           "score": 93.8,
@@ -11000,7 +10967,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 588.5591430664062
+          "spyClose": 588.5592041015625
         },
         "trend": {
           "score": 94.7,
@@ -11066,7 +11033,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 590.4208984375
+          "spyClose": 590.4208374023438
         },
         "trend": {
           "score": 94.9,
@@ -11132,7 +11099,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 591.7534790039062
+          "spyClose": 591.7535400390625
         },
         "trend": {
           "score": 94.5,
@@ -11165,7 +11132,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 595.4280395507812
+          "spyClose": 595.4279174804688
         },
         "trend": {
           "score": 95.6,
@@ -11198,7 +11165,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 594.4481811523438
+          "spyClose": 594.4480590820312
         },
         "trend": {
           "score": 95.1,
@@ -11297,7 +11264,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 590.6659545898438
+          "spyClose": 590.6658935546875
         },
         "trend": {
           "score": 93.2,
@@ -11330,7 +11297,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 595.2321166992188
+          "spyClose": 595.2320556640625
         },
         "trend": {
           "score": 94.5,
@@ -11363,7 +11330,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 592.1650390625
+          "spyClose": 592.1651000976562
         },
         "trend": {
           "score": 93.1,
@@ -11396,7 +11363,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 592.0475463867188
+          "spyClose": 592.0474853515625
         },
         "trend": {
           "score": 92.3,
@@ -11495,7 +11462,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 574.478515625
+          "spyClose": 574.4783935546875
         },
         "trend": {
           "score": 85.4,
@@ -11528,7 +11495,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 574.3020629882812
+          "spyClose": 574.302001953125
         },
         "trend": {
           "score": 85,
@@ -11561,7 +11528,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 581.2000122070312
+          "spyClose": 581.199951171875
         },
         "trend": {
           "score": 88.2,
@@ -11660,7 +11627,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 591.218505859375
+          "spyClose": 591.2184448242188
         },
         "trend": {
           "score": 90.7,
@@ -11792,7 +11759,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 574.799560546875
+          "spyClose": 574.7994995117188
         },
         "trend": {
           "score": 84.8,
@@ -11825,7 +11792,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 581.9865112304688
+          "spyClose": 581.9864501953125
         },
         "trend": {
           "score": 87.8,
@@ -11858,7 +11825,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 585.339111328125
+          "spyClose": 585.3390502929688
         },
         "trend": {
           "score": 89.1,
@@ -11891,7 +11858,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 578.7223510742188
+          "spyClose": 578.722412109375
         },
         "trend": {
           "score": 86.6,
@@ -11924,7 +11891,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 579.5678100585938
+          "spyClose": 579.56787109375
         },
         "trend": {
           "score": 86.1,
@@ -11957,7 +11924,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 570.7193603515625
+          "spyClose": 570.7194213867188
         },
         "trend": {
           "score": 82.8,
@@ -11990,7 +11957,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 571.6041870117188
+          "spyClose": 571.6043090820312
         },
         "trend": {
           "score": 82.8,
@@ -12056,7 +12023,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 582.802490234375
+          "spyClose": 582.8024291992188
         },
         "trend": {
           "score": 86.9,
@@ -12089,7 +12056,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 581.6817626953125
+          "spyClose": 581.6817016601562
         },
         "trend": {
           "score": 86.6,
@@ -12188,7 +12155,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 596.2326049804688
+          "spyClose": 596.232666015625
         },
         "trend": {
           "score": 90.7,
@@ -12287,7 +12254,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 589.2816162109375
+          "spyClose": 589.2815551757812
         },
         "trend": {
           "score": 87.3,
@@ -12320,7 +12287,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 594.3448486328125
+          "spyClose": 594.3447875976562
         },
         "trend": {
           "score": 88.8,
@@ -12353,7 +12320,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 591.6804809570312
+          "spyClose": 591.6805419921875
         },
         "trend": {
           "score": 87.8,
@@ -12386,7 +12353,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 594.856201171875
+          "spyClose": 594.8561401367188
         },
         "trend": {
           "score": 88.4,
@@ -12419,7 +12386,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 591.6904296875
+          "spyClose": 591.6903076171875
         },
         "trend": {
           "score": 87.3,
@@ -12452,7 +12419,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 587.70849609375
+          "spyClose": 587.7085571289062
         },
         "trend": {
           "score": 86.6,
@@ -12683,7 +12650,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 593.2045288085938
+          "spyClose": 593.2044067382812
         },
         "trend": {
           "score": 86.1,
@@ -12749,7 +12716,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 599.437744140625
+          "spyClose": 599.4376831054688
         },
         "trend": {
           "score": 88.8,
@@ -12848,7 +12815,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 600.106201171875
+          "spyClose": 600.1062622070312
         },
         "trend": {
           "score": 87.9,
@@ -12881,7 +12848,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 589.8421020507812
+          "spyClose": 589.8419799804688
         },
         "trend": {
           "score": 84.4,
@@ -12947,7 +12914,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 584.2379150390625
+          "spyClose": 584.2379760742188
         },
         "trend": {
           "score": 81,
@@ -13013,7 +12980,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 575.20263671875
+          "spyClose": 575.2025756835938
         },
         "trend": {
           "score": 77.4,
@@ -13046,7 +13013,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 584.178955078125
+          "spyClose": 584.1788940429688
         },
         "trend": {
           "score": 80.8,
@@ -13145,7 +13112,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 573.2460327148438
+          "spyClose": 573.2461547851562
         },
         "trend": {
           "score": 75.6,
@@ -13277,7 +13244,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 546.5628662109375
+          "spyClose": 546.56298828125
         },
         "trend": {
           "score": 61.1,
@@ -13310,7 +13277,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 549.4633178710938
+          "spyClose": 549.4632568359375
         },
         "trend": {
           "score": 62.8,
@@ -13442,7 +13409,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 551.5770874023438
+          "spyClose": 551.5770263671875
         },
         "trend": {
           "score": 63.3,
@@ -13508,7 +13475,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 555.971923828125
+          "spyClose": 555.9718627929688
         },
         "trend": {
           "score": 65.4,
@@ -13640,7 +13607,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 560.7013549804688
+          "spyClose": 560.7012939453125
         },
         "trend": {
           "score": 66.7,
@@ -13673,7 +13640,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 559.2122802734375
+          "spyClose": 559.2122192382812
         },
         "trend": {
           "score": 66,
@@ -13739,7 +13706,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 551.62890625
+          "spyClose": 551.6289672851562
         },
         "trend": {
           "score": 61.7,
@@ -13805,7 +13772,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 556.6876831054688
+          "spyClose": 556.6878051757812
         },
         "trend": {
           "score": 64.2,
@@ -13970,7 +13937,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 541.0084228515625
+          "spyClose": 541.0083618164062
         },
         "trend": {
           "score": 57.4,
@@ -14036,7 +14003,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 526.5320434570312
+          "spyClose": 526.5321044921875
         },
         "trend": {
           "score": 51.5,
@@ -14102,7 +14069,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 530.151123046875
+          "spyClose": 530.1511840820312
         },
         "trend": {
           "score": 53.6,
@@ -14135,7 +14102,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 518.366943359375
+          "spyClose": 518.3668823242188
         },
         "trend": {
           "score": 49.1,
@@ -14201,7 +14168,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 506.7503662109375
+          "spyClose": 506.7503356933594
         },
         "trend": {
           "score": 43.9,
@@ -14267,7 +14234,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 527.991455078125
+          "spyClose": 527.9915161132812
         },
         "trend": {
           "score": 54.8,
@@ -14300,7 +14267,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 539.1051635742188
+          "spyClose": 539.105224609375
         },
         "trend": {
           "score": 59.1,
@@ -14366,7 +14333,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 543.2073364257812
+          "spyClose": 543.2074584960938
         },
         "trend": {
           "score": 60.2,
@@ -14399,7 +14366,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 546.62939453125
+          "spyClose": 546.6292724609375
         },
         "trend": {
           "score": 61.9,
@@ -14432,7 +14399,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 546.84619140625
+          "spyClose": 546.8462524414062
         },
         "trend": {
           "score": 61.5,
@@ -14465,7 +14432,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 550.7216186523438
+          "spyClose": 550.7216796875
         },
         "trend": {
           "score": 63,
@@ -14498,7 +14465,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 558.8966064453125
+          "spyClose": 558.896728515625
         },
         "trend": {
           "score": 68,
@@ -14531,7 +14498,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 555.6918334960938
+          "spyClose": 555.6917724609375
         },
         "trend": {
           "score": 66.5,
@@ -14597,7 +14564,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 553.3645629882812
+          "spyClose": 553.364501953125
         },
         "trend": {
           "score": 64.1,
@@ -14630,7 +14597,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 557.2203369140625
+          "spyClose": 557.2202758789062
         },
         "trend": {
           "score": 65.4,
@@ -14762,7 +14729,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 579.437744140625
+          "spyClose": 579.4376831054688
         },
         "trend": {
           "score": 76.4,
@@ -14828,7 +14795,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 585.9560546875
+          "spyClose": 585.9559936523438
         },
         "trend": {
           "score": 78.7,
@@ -14861,7 +14828,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 586.596923828125
+          "spyClose": 586.5969848632812
         },
         "trend": {
           "score": 78.2,
@@ -14993,7 +14960,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 571.0753784179688
+          "spyClose": 571.0752563476562
         },
         "trend": {
           "score": 71,
@@ -15026,7 +14993,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 582.9483642578125
+          "spyClose": 582.9483032226562
         },
         "trend": {
           "score": 76.4,
@@ -15059,7 +15026,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 579.5757446289062
+          "spyClose": 579.5758056640625
         },
         "trend": {
           "score": 75.3,
@@ -15092,7 +15059,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 581.8635864257812
+          "spyClose": 581.863525390625
         },
         "trend": {
           "score": 75.9,
@@ -15125,7 +15092,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 581.2127685546875
+          "spyClose": 581.2128295898438
         },
         "trend": {
           "score": 75.5,
@@ -15158,7 +15125,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 584.4866943359375
+          "spyClose": 584.4866333007812
         },
         "trend": {
           "score": 77.2,
@@ -15191,7 +15158,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 587.8197631835938
+          "spyClose": 587.81982421875
         },
         "trend": {
           "score": 78.9,
@@ -15224,7 +15191,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 587.6619262695312
+          "spyClose": 587.6619873046875
         },
         "trend": {
           "score": 78.2,
@@ -15257,7 +15224,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 584.8219604492188
+          "spyClose": 584.8218994140625
         },
         "trend": {
           "score": 77,
@@ -15290,7 +15257,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 590.8274536132812
+          "spyClose": 590.8275146484375
         },
         "trend": {
           "score": 79.3,
@@ -15389,7 +15356,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 593.0166625976562
+          "spyClose": 593.0166015625
         },
         "trend": {
           "score": 79.4,
@@ -15422,7 +15389,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 595.37353515625
+          "spyClose": 595.3734741210938
         },
         "trend": {
           "score": 80.1,
@@ -15521,7 +15488,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 589.2398681640625
+          "spyClose": 589.2398071289062
         },
         "trend": {
           "score": 76.9,
@@ -15554,7 +15521,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 589.1510620117188
+          "spyClose": 589.1510009765625
         },
         "trend": {
           "score": 76.8,
@@ -15653,7 +15620,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 600.13037109375
+          "spyClose": 600.1304321289062
         },
         "trend": {
           "score": 80.4,
@@ -15686,7 +15653,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 600.4666137695312
+          "spyClose": 600.4666748046875
         },
         "trend": {
           "score": 80.6,
@@ -15752,7 +15719,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 608.1712036132812
+          "spyClose": 608.1713256835938
         },
         "trend": {
           "score": 82.6,
@@ -15785,7 +15752,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 611.0790405273438
+          "spyClose": 611.0791015625
         },
         "trend": {
           "score": 83.2,
@@ -15851,7 +15818,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 613.650634765625
+          "spyClose": 613.6505737304688
         },
         "trend": {
           "score": 83.9,
@@ -15917,7 +15884,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 613.8779907226562
+          "spyClose": 613.8780517578125
         },
         "trend": {
           "score": 82.8,
@@ -16049,7 +16016,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 616.785888671875
+          "spyClose": 616.7858276367188
         },
         "trend": {
           "score": 82.9,
@@ -16181,7 +16148,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 621.1573486328125
+          "spyClose": 621.1574096679688
         },
         "trend": {
           "score": 83.4,
@@ -16214,7 +16181,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 620.7024536132812
+          "spyClose": 620.702392578125
         },
         "trend": {
           "score": 82.8,
@@ -16280,7 +16247,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 621.9684448242188
+          "spyClose": 621.9683837890625
         },
         "trend": {
           "score": 84.3,
@@ -16313,7 +16280,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 627.259765625
+          "spyClose": 627.2598266601562
         },
         "trend": {
           "score": 85.9,
@@ -16379,7 +16346,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 630.1181030273438
+          "spyClose": 630.1180419921875
         },
         "trend": {
           "score": 85.9,
@@ -16445,7 +16412,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 628.29833984375
+          "spyClose": 628.2982788085938
         },
         "trend": {
           "score": 86.7,
@@ -16577,7 +16544,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 624.2531127929688
+          "spyClose": 624.2530517578125
         },
         "trend": {
           "score": 84,
@@ -16709,7 +16676,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 630.1972045898438
+          "spyClose": 630.197265625
         },
         "trend": {
           "score": 88.6,
@@ -16808,7 +16775,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 637.8228149414062
+          "spyClose": 637.8226928710938
         },
         "trend": {
           "score": 89.1,
@@ -16841,7 +16808,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 637.882080078125
+          "spyClose": 637.8821411132812
         },
         "trend": {
           "score": 89,
@@ -16973,7 +16940,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 631.1170043945312
+          "spyClose": 631.1170654296875
         },
         "trend": {
           "score": 84.5,
@@ -17006,7 +16973,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 628.5851440429688
+          "spyClose": 628.5850830078125
         },
         "trend": {
           "score": 83.1,
@@ -17039,7 +17006,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 638.2381591796875
+          "spyClose": 638.2380981445312
         },
         "trend": {
           "score": 86.3,
@@ -17105,7 +17072,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 638.0897827148438
+          "spyClose": 638.0897216796875
         },
         "trend": {
           "score": 86.4,
@@ -17138,7 +17105,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 639.543701171875
+          "spyClose": 639.5436401367188
         },
         "trend": {
           "score": 86.1,
@@ -17204,7 +17171,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 637.9810180664062
+          "spyClose": 637.98095703125
         },
         "trend": {
           "score": 85.3,
@@ -17237,7 +17204,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 633.25341796875
+          "spyClose": 633.2533569335938
         },
         "trend": {
           "score": 84,
@@ -17270,7 +17237,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 636.6853637695312
+          "spyClose": 636.685302734375
         },
         "trend": {
           "score": 85.1,
@@ -17435,7 +17402,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 645.0625
+          "spyClose": 645.0625610351562
         },
         "trend": {
           "score": 89,
@@ -17501,7 +17468,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 650.2055053710938
+          "spyClose": 650.2054443359375
         },
         "trend": {
           "score": 89.2,
@@ -17534,7 +17501,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 653.6671752929688
+          "spyClose": 653.6671142578125
         },
         "trend": {
           "score": 89.4,
@@ -17567,7 +17534,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 652.76708984375
+          "spyClose": 652.7671508789062
         },
         "trend": {
           "score": 88.6,
@@ -17633,7 +17600,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 655.0023803710938
+          "spyClose": 655.00244140625
         },
         "trend": {
           "score": 88.7,
@@ -17699,7 +17666,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 661.3606567382812
+          "spyClose": 661.3607788085938
         },
         "trend": {
           "score": 90.1,
@@ -17765,7 +17732,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 655.6677856445312
+          "spyClose": 655.6678466796875
         },
         "trend": {
           "score": 87.4,
@@ -17831,7 +17798,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 656.3819580078125
+          "spyClose": 656.3820190429688
         },
         "trend": {
           "score": 87.2,
@@ -17930,7 +17897,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 662.95751953125
+          "spyClose": 662.9574584960938
         },
         "trend": {
           "score": 89,
@@ -18293,7 +18260,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 655.2117309570312
+          "spyClose": 655.2116088867188
         },
         "trend": {
           "score": 84.3,
@@ -18623,7 +18590,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 674.2439575195312
+          "spyClose": 674.2440185546875
         },
         "trend": {
           "score": 88.4,
@@ -18656,7 +18623,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 676.4556274414062
+          "spyClose": 676.45556640625
         },
         "trend": {
           "score": 89,
@@ -18755,7 +18722,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 672.0125122070312
+          "spyClose": 672.012451171875
         },
         "trend": {
           "score": 88.4,
@@ -18854,7 +18821,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 675.8407592773438
+          "spyClose": 675.8406982421875
         },
         "trend": {
           "score": 87.6,
@@ -18920,7 +18887,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 677.7647705078125
+          "spyClose": 677.7648315429688
         },
         "trend": {
           "score": 87.4,
@@ -18953,7 +18920,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 666.5179443359375
+          "spyClose": 666.5180053710938
         },
         "trend": {
           "score": 83.8,
@@ -18986,7 +18953,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 666.408935546875
+          "spyClose": 666.4088745117188
         },
         "trend": {
           "score": 83.9,
@@ -19019,7 +18986,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 660.2002563476562
+          "spyClose": 660.2003173828125
         },
         "trend": {
           "score": 81.8,
@@ -19151,7 +19118,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 653.6148681640625
+          "spyClose": 653.6149291992188
         },
         "trend": {
           "score": 80.1,
@@ -19184,7 +19151,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 663.2351684570312
+          "spyClose": 663.235107421875
         },
         "trend": {
           "score": 83.2,
@@ -19217,7 +19184,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 669.4734497070312
+          "spyClose": 669.4735107421875
         },
         "trend": {
           "score": 84.8,
@@ -19316,7 +19283,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 674.6803588867188
+          "spyClose": 674.6802978515625
         },
         "trend": {
           "score": 85.6,
@@ -19415,7 +19382,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 678.7665405273438
+          "spyClose": 678.7664794921875
         },
         "trend": {
           "score": 86.5,
@@ -19613,7 +19580,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 676.1580810546875
+          "spyClose": 676.1581420898438
         },
         "trend": {
           "score": 85.2,
@@ -19811,7 +19778,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 681.2098388671875
+          "spyClose": 681.2098999023438
         },
         "trend": {
           "score": 87.8,
@@ -19976,7 +19943,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 683.3782958984375
+          "spyClose": 683.3783569335938
         },
         "trend": {
           "score": 86.1,
@@ -20075,7 +20042,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 684.0845947265625
+          "spyClose": 684.0845336914062
         },
         "trend": {
           "score": 87.5,
@@ -20306,7 +20273,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 686.7105712890625
+          "spyClose": 686.7106323242188
         },
         "trend": {
           "score": 87.6,
@@ -20537,7 +20504,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 689.068115234375
+          "spyClose": 689.0680541992188
         },
         "trend": {
           "score": 85,
@@ -20669,7 +20636,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 688.3121337890625
+          "spyClose": 688.3120727539062
         },
         "trend": {
           "score": 85,
@@ -20702,7 +20669,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 691.73388671875
+          "spyClose": 691.7339477539062
         },
         "trend": {
           "score": 85.6,
@@ -20867,7 +20834,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 690.2816162109375
+          "spyClose": 690.2816772460938
         },
         "trend": {
           "score": 84.5,
@@ -21098,7 +21065,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 680.8616943359375
+          "spyClose": 680.8616333007812
         },
         "trend": {
           "score": 80.3,
@@ -21329,7 +21296,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 682.7516479492188
+          "spyClose": 682.751708984375
         },
         "trend": {
           "score": 82.7,
@@ -21395,7 +21362,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 681.50830078125
+          "spyClose": 681.5082397460938
         },
         "trend": {
           "score": 82.3,
@@ -21428,7 +21395,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 677.7084350585938
+          "spyClose": 677.70849609375
         },
         "trend": {
           "score": 81.6,
@@ -21461,7 +21428,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 668.8256225585938
+          "spyClose": 668.82568359375
         },
         "trend": {
           "score": 77.8,
@@ -21494,7 +21461,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 674.6845092773438
+          "spyClose": 674.6845703125
         },
         "trend": {
           "score": 80.8,
@@ -21758,7 +21725,7 @@
           "score": 96.2,
           "weight": 0.3,
           "contribution": 28.86,
-          "spyClose": 656.3121337890625
+          "spyClose": 656.3121948242188
         },
         "trend": {
           "score": 74,
@@ -24991,9 +24958,9 @@
   "warnings": [],
   "coverage": {
     "targetHistoryStartDate": "1997-01-01",
-    "historyStartDate": "2023-08-09",
+    "historyStartDate": "2023-08-10",
     "historyEndDate": "2026-08-07",
-    "historyPoints": 752,
+    "historyPoints": 751,
     "breadthSampleCount": 30,
     "series": [
       {
